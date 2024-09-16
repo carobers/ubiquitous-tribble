@@ -1,2 +1,3 @@
 # ubiquitous-tribble
-gem "github-pages", group: :jekyll_plugins
+
+**[See the docs](https://carobers.github.io/ubiquitous-tribble/)**
